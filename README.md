@@ -6,6 +6,7 @@
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
