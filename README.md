@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Math
 |  |
@@ -28,4 +30,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
