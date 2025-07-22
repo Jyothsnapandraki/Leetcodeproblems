@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -34,10 +35,15 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
