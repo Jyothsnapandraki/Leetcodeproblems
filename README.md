@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0383-ransom-note) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -46,9 +47,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jyothsnapandraki/Leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
